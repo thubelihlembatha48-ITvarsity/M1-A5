@@ -1,0 +1,28 @@
+.gallary img{
+width: 100%;
+}
+
+h4{
+    background-color:blue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+}
+
+h1{
+    background-color: chartreuse;
+    font-family: serif;
+    text-align: center;
+}
+
+#menu{
+    background-color: chartreuse;
+    width: 100%;
+    font-size: larger;
+    font-style: italic;
+}
+
+h3{
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: chartreuse;
+}
